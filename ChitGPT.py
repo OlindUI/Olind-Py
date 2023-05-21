@@ -1,4 +1,4 @@
-mport requests
+import requests
 import urllib.parse
 
 api_url = "https://ybapi.cn/API/gpt.php?type=chit&msg="
